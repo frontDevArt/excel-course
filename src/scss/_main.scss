@@ -1,0 +1,11 @@
+@import "variables";
+@import "mixins";
+
+// Excel page
+@import "excel/components/header";
+@import "excel/components/toolbar";
+@import "excel/components/formula";
+@import "excel/components/table";
+
+// Dashboard page
+@import "dashboard/components/dashboard";
